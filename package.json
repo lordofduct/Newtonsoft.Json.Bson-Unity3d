@@ -1,19 +1,19 @@
 {
-  "name": "JLH-Newtonsoft.Json.Bson",
-  "version": "1.0.2",
-  "displayName": "JLH Newtonsoft Bson",
-  "description": "Port of Newtonsoft Bson for Unity3d.",
-  "unity": "2020.3",
-  "unityRelease": "22f1",
-  "documentationUrl": "https://github.com/lordofduct/Newtonsoft.Json.Bson-Unity3d",
-  "changelogUrl": "https://github.com/lordofduct/Newtonsoft.Json.Bson-Unity3d",
-  "licensesUrl": "https://github.com/lordofduct/Newtonsoft.Json.Bson-Unity3d/blob/jlh/master/LICENSE.md",
-  "dependencies": {
-    "nuget.newtonsoft-json": "2.0.0",
-  },
-  "author": {
-    "name": "Dylan Engelman",
-    "email": "dylan@jupiterlighthouse.com",
-    "url": "https://github.com/lordofduct"
-  }
+	"name": "com.jlh.newtonsoft-bson",
+	"version": "1.0.2",
+	"displayName": "JLH - Newtonsoft Bson",
+	"description": "Port of Newtonsoft Bson for Unity3d.",
+	"unity": "2020.3",
+	"unityRelease": "22f1",
+	"documentationUrl": "https://github.com/lordofduct/Newtonsoft.Json.Bson-Unity3d",
+	"changelogUrl": "https://github.com/lordofduct/Newtonsoft.Json.Bson-Unity3d",
+	"licensesUrl": "https://github.com/lordofduct/Newtonsoft.Json.Bson-Unity3d/blob/jlh/master/LICENSE.md",
+	"dependencies": {
+		"com.unity.nuget.newtonsoft-json": "2.0.0"
+	},
+	"author": {
+		"name": "Dylan Engelman",
+		"email": "dylan@jupiterlighthouse.com",
+		"url": "https://github.com/lordofduct"
+	}
 }
