@@ -1,0 +1,14 @@
+{
+    "name": "JLH-Newtonsoft.Json.Bson",
+    "rootNamespace": "Newtonsoft.Json.Bson",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
